@@ -8,7 +8,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 # Creating ChatBot Instance
 chatbot = ChatBot('<b>BUBT BOT</b>')
 
-# nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
 
 chatbot = ChatBot(
     'ChatBot for College Enquiry',
@@ -28,6 +28,9 @@ trainer = ListTrainer(chatbot)
 # Training with Personal Ques & Ans 
 conversation = [
 "Hi",
+"Hello and welcome. How may i help you?",
+
+"hi",
 "Hello and welcome. How may i help you?",
 
 "Helloo!",
