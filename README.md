@@ -47,13 +47,6 @@ cd bubtbotproject
 python app.py runserver
 
 
-https://www.freemysqlhosting.net/
->imkhaled404@gmail.com  
->V)g$!peVmNGi0Gxi
 
-server : sql6.freemysqlhosting.net
-username : imkhaled404@gmail.com
-
-password :UKF4gIWJ6H
 
 
